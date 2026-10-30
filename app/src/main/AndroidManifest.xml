@@ -5,7 +5,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="Manga Local Runner Plus"
+        android:label="andNovaRun"
         android:usesCleartextTraffic="true"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
 
